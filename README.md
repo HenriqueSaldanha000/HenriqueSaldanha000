@@ -1,6 +1,8 @@
 <h1 align="center">Hi👋 My name is Henrique, and I'm a Computer Science student at PUC Minas</h1>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSaldanha000&layout=compact&langs_count=6&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSaldanha000&layout=compact&langs_count=6&theme=dark" alt="Top Linguagens"/>
+</p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
