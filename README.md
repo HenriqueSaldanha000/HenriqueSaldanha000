@@ -33,5 +33,5 @@
 </p>
 
 <h2 align="center">About Me</h2>
-<h4 align="center"> Henrique Saldanha Mendes Veloso </h4>
-<h4 align="center"> Currently pursuing a Bachelor's degree in Computer Science at PUC Minas. </h4>
+<p>Henrique Saldanha Mendes Veloso</p>
+<p>Currently pursuing a Bachelor's degree in Computer Science at PUC Minas.</p>
