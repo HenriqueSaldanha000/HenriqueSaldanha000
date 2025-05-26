@@ -37,4 +37,4 @@
 <h2 align="center">About Me</h2>
 <p align="center">Henrique Saldanha Mendes Veloso</p>
 <p align="center">Currently pursuing a Bachelor's degree in Computer Science at PUC Minas.</p>
-<p align="center">I am always eager to learn new things and expand my knowledge, especially when it comes to technology. I'm passionate about problem solving, teamwork, and continuously improving both personally and professionally.</p> 
+<p align="center">I am always trying to learn new things and expand my knowledge, especially when it comes to technology. I'm passionate about problem solving, teamwork, and continuously improving both personally and professionally.</p> 
